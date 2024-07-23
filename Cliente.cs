@@ -1,4 +1,4 @@
-namespace AppEquipe;
+namespace Modelos;
 
 public class Cliente:Pessoa
 {
